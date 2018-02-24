@@ -1,16 +1,15 @@
-glob
-csg*  匹配有扩展名的文件? 匹配目录?
-csg*.*
-
-rename then modified ?
-
-amend modified stage
-
-git add *
-
 checkout  how to revert to staged?
 
 git clone, switch branch, then git pull?
 how to setup to check a remote branch?
 
 switch br when dirty
+
+git branch list parent branch ?
+
+multi unrelated repo in the same dir?
+
+git commit id?
+
+merge from master, after, merge back?
+
