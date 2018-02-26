@@ -6,6 +6,3 @@ git remote add origin git@gitlab.domain.com:username/repository.git
 git remote add origin https://github.com/gntower2013t/MyGit.git
 git push origin master
 
-test
-
-master
