@@ -9,9 +9,7 @@ merge from master, after, merge back?
 
 try git checkout branch
 
- ac720bb4452
-
 git log --oneline 
 git log --oneline --decorate
 
-sth on new br.
+new on br.
