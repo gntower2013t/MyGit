@@ -1,7 +1,5 @@
-checkout  how to revert to staged?
-
 git clone, switch branch, then git pull?
-how to setup to check a remote branch?
+
 
 switch br when dirty
 
@@ -13,3 +11,9 @@ git commit id?
 
 merge from master, after, merge back?
 
+try git checkout branch
+
+ ac720bb4452
+
+git log --oneline 
+git log --oneline --decorate
