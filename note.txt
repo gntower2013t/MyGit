@@ -1,4 +1,3 @@
-
 git branch list parent branch ?
 
 multi unrelated repo in the same dir?
@@ -8,8 +7,17 @@ git commit id?
 merge from master, after, merge back?
 
 try git checkout branch
+  deleted file
+  remote change + local change
+switch br when dirty
 
 git log --oneline 
 git log --oneline --decorate
 
-new on br.
+git pull, for multi braches, auto merge not only for current working branch?
+git push only push current working branch?
+
+commit --patch ½»»¥Ê½ÔÝ´æ?
+
+? pathspecs refspecs
+
