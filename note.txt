@@ -13,4 +13,3 @@ commit --patch ½»»¥Ê½ÔÝ´æ?
 
 ? pathspecs refspecs
 
-new content2
