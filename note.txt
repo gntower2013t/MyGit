@@ -1,6 +1,6 @@
 git commit id?
 
-merge from master, after, merge back?
+merge from master, after, merge back? <<working
 
 try git checkout branch
   deleted file
@@ -12,7 +12,5 @@ git log --oneline --decorate
 commit --patch ½»»¥Ê½Ôİ´æ?
 
 ? pathspecs refspecs
-
-new content on test
 
 new content2
