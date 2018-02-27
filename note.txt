@@ -1,6 +1,6 @@
 git commit id?
 
-merge from master, after, merge back? <<working
+merge from master, after, merge back? <<working 2
 
 try git checkout branch
   deleted file
