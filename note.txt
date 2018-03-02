@@ -1,15 +1,8 @@
 git commit id?
 
-merge from master, after, merge back? <<working 2
-
-try git checkout branch
-  deleted file
-  remote change + local change
-
-git log --oneline 
-git log --oneline --decorate
-
 commit --patch ½»»¥Ê½Ôİ´æ?
 
-? pathspecs refspecs
+? pathspecs refspecs /from stash
 
+checkout -b / branch
+  start_point
