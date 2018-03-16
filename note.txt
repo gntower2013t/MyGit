@@ -1,8 +1,0 @@
-git commit id?
-
-commit --patch ½»»¥Ê½ÔÝ´æ?
-
-? pathspecs refspecs /from stash
-
-checkout -b / branch
-  start_point
