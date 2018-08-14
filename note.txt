@@ -8,3 +8,4 @@ checkout -b / branch
   start_point
 
 after clone
+on shallow
