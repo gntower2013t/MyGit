@@ -9,3 +9,4 @@ checkout -b / branch
 
 after clone
 on shallow
+after br3
