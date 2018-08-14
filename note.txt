@@ -1,0 +1,10 @@
+git commit id?
+
+commit --patch 交互式暂存?
+
+? pathspecs refspecs /from stash
+
+checkout -b / branch
+  start_point
+
+after clone
